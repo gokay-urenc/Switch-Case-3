@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_3\Switch_Case_3\bin\Debug\Switch_Case_3.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_3\Switch_Case_3\bin\Debug\Switch_Case_3.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_3\Switch_Case_3\bin\Debug\Switch_Case_3.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_3\Switch_Case_3\obj\Debug\Switch_Case_3.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_3\Switch_Case_3\obj\Debug\Switch_Case_3.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_3\Switch_Case_3\obj\Debug\Switch_Case_3.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Switch_Case_3\Switch_Case_3\obj\Debug\Switch_Case_3.pdb
